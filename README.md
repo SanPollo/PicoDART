@@ -6,6 +6,8 @@ PerryDART is an Amstrad CPS8256 emulator for the Raspberry Pi Pico microcontroll
 
 It is based on the [JOYCE](https://www.seasip.info/Unix/Joyce/) Amstrad PCW emulator by John Elliott.
 
+PerryDART is licensed under the GNU General Public License Version 3 or any later version. Please see the [LICENSE](LICENSE) file for more information.
+
 
 ## Usage
 
