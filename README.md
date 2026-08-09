@@ -12,7 +12,7 @@ PerryDART is licensed under the GNU General Public License Version 3 or any late
 
 ## Usage
 
-1. Download the [latest release](https://github.com/SanPollo/releases/latest) of PerryDART in **.uf2** format.
+1. Download the [latest release](https://github.com/SanPollo/PicoDART/releases/latest) of PerryDART in **.uf2** format.
 2. Disconnect the PerryFi 2 from the PCW and any other power sources.
 3. Acquire a USB-C to USB, or micro USB to USB **data cable** (depending on your Pico). Note that power-only cables designed for charging **will not work**.
 4. Connect the relevant end to the Pico.
